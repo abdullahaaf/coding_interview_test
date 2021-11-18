@@ -1,3 +1,5 @@
+# Memeriksa apakah sebuah kata termasuk palindrome atau tidak
+
 def isPalindrome(s):
     return s == s[::-1]
  

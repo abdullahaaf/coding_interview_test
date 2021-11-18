@@ -1,3 +1,5 @@
+# Problem memeriksa jumlah huruf yang duplikat dan total berapa kali huruf tersebut muncul dalam sebuah kalimat
+
 chars = "abcdefghijklmnopqrstuvwxyz"
 check_string = "loremipsumsitdoloramet"
 
